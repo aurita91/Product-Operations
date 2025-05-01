@@ -2,7 +2,7 @@ import openai
 import streamlit as st
 
 
-openai.api_key ="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"
+openai.api_key ="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"
 import chromadb
 
 # Set your OpenAI API key
